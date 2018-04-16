@@ -5,16 +5,20 @@ import MenuButton from './MenuButton';
 
 const students = [
   {
-    name : 'Emily', 
-    age : 4
+    name: 'Annie', 
+    age: 6
   },
   {
-    name : 'Brianna',
-    age: 2 
+    name: 'Brian',
+    age: 7 
   },
  {
-    name : 'Ash',
-    age : 1
+    name: 'Christine',
+    age: 10
+ },
+ {
+   name: 'David',
+   age: 4
  }
 ];
 
