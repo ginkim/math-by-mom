@@ -1,0 +1,22 @@
+.menubutton {
+    border: 1px solid #111010;
+    background-color: #cb7dc9;
+
+    text-align: center;
+    color: aliceblue;
+
+    width: 100px;
+    height: 50px;
+    line-height: 50px;
+    
+    margin-bottom: 10px;
+}
+
+.menuContainer {
+    position: absolute;
+    
+    left: 50%;
+    
+    margin-left: -50px;
+}
+
